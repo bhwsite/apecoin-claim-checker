@@ -1,0 +1,17 @@
+{
+  "name": "apecoin-claim-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.22.0",
+    "colourize": "^1.4.45",
+    "web3": "^1.7.3"
+  }
+}
