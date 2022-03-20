@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "playwright": "^1.22.0",
-    "colourize": "^1.4.45",
+    "colorred": "^1.4.54",
     "web3": "^1.7.3"
   }
 }

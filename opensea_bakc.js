@@ -1,6 +1,6 @@
 const { chromium } = require('playwright');
 const fs = require('fs');
-const color = require('colourize');
+const color = require('colorred');
 
 (async () => {
   const browser = await chromium.launch({ headless: true }); // Or 'firefox' or 'webkit'.

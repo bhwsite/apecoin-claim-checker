@@ -1,5 +1,5 @@
 const Web3 = require('web3');
-const color = require('colourize');
+const color = require('colorred');
 const fs = require('fs');
 
 const web3 = new Web3('https://cloudflare-eth.com/');
